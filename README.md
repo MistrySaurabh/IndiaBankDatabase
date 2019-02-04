@@ -6,6 +6,8 @@ SQL database for banks of country India , taken from official website of [Reserv
 **id | BANK | IFSC | MICR | BRANCH | ADDRESS | CONTACT | CITY | DISTRICT | STATE**  
 
  Total Rows : 142399
+ 
+![IndianBanksSQL](https://user-images.githubusercontent.com/16002832/52192941-90121e00-2872-11e9-85c5-84b6571c040e.png)
 
 ## Buy me a cup of Tea
 
